@@ -7,7 +7,7 @@ import requests
 from sys import argv
 
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     """
         Request user info by employee ID
     """
